@@ -1,0 +1,4 @@
+#!/bin/sh
+dustc npi_panel.dust  ../../public/dust/npi_panel_dust.js 
+dustc header.dust ../../public/dust/header_dust.js 
+dustc breadcrumbs.dust ../../public/dust/breadcrumbs_dust.js 

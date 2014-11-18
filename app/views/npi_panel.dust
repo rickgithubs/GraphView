@@ -1,0 +1,15 @@
+        <div class="panel panel-default">
+          <div class="panel-heading">
+            <h4><a target='_blank' href='/npi/{npi}/'>{name}</a></h4>
+            <p>{npi}</p>
+          </div>
+          <div class="panel-body">
+            <small><cite title="{city}, {state} ">{city}, {state} <i class="glyphicon glyphicon-map-marker"></i></cite></small>
+            <p><i class="glyphicon glyphicon-phone"></i> {phone}<br>
+            <ul class="list-group">
+              <li class="list-group-item"><a target='_blank' href='/npi/{npi}/team/'>Teaming Report</a></li>
+              <li class="list-group-item"><a target='_blank' href='/npi/{npi}/meds/'>Meds Report</a></li>
+              <li class="list-group-item"><a target='_blank' href='/npi/{npi}/procs/'>Procs Report</a></li>
+            </ul>
+          </div>
+        </div>

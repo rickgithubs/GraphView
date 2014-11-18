@@ -1,0 +1,7 @@
+			<div class="col-md-6">
+                                <ol class="breadcrumb">
+                                        <li><a href="/"> BreadCrumbs </a></li>
+                                        <li><a href="/"> {careset_name}</a></li>
+                                        <li class="active">Diagram</li>
+                                </ol>
+                        </div>
